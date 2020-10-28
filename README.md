@@ -9,3 +9,4 @@ Series of algorithms where I'm going to solve 50 problems of each platform (Hack
 * ## Hackerrank
 1. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) - [Solution.js](https://github.com/rogive/150-algorithm-challenge/blob/master/src/birthday_cake_candles/index.js) - [Solution.py](https://github.com/rogive/150-algorithm-challenge/blob/master/src/birthday_cake_candles/index.py)
 1. [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem) - [Solution.js](https://github.com/rogive/150-algorithm-challenge/blob/master/src/matrix_layer_rotation/index.js)
+1. [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) - [Solution.js](https://github.com/rogive/150-algorithm-challenge/blob/master/src/mini_max_sum/index.js) - [Solution.py](https://github.com/rogive/150-algorithm-challenge/blob/master/src/mini_max_sum/index.py)
